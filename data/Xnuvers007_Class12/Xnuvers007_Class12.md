@@ -1,0 +1,1 @@
+this is your image data from training, you can remove/delete folder data/Xnuvers007_class12/
